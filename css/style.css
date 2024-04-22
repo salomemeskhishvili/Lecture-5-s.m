@@ -7,6 +7,11 @@ header {
 	margin: 0 auto;
 }
 
+.container2 {
+	width: 1052px;
+	margin: 0 auto;
+}
+
 .htmllogo {
 	margin-right: 60px;
 	vertical-align: middle;
@@ -126,4 +131,122 @@ a {
 .yt {
 	margin-right: 32px;
 	margin-bottom: 250px;
+}
+
+.htmlbanner {
+	margin-bottom: 120px;
+}
+
+.news {
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	margin-right: 18px;
+	margin-bottom: 23px;
+}
+
+.stick {
+	background: #5012D5;
+	display: inline-block;
+	width: 2px;
+	height: 24px;
+	margin-right: 18px;
+	vertical-align: bottom;
+	margin-bottom: 25px;
+}
+
+.dtls {
+	color: #4E6FAE;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	margin-bottom: 23px;
+}
+
+.card1 {
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	margin-right: 45px;
+	padding: 20px;
+	display: inline-block;
+	margin-bottom: 90px;
+}
+
+.card2 {
+	display: inline-block;
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	padding: 20px;
+	vertical-align: top;
+	margin-bottom: 90px;
+}
+
+.cardh {
+	color: #3F4145;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 20px;
+}
+
+.search {
+	margin-right: 37px;
+	display: inline-block;
+}
+
+.img {
+	margin-right: 30px;
+	display: inline-block;
+
+}
+
+.cardp {
+	display: inline-block;
+	color: #7E8898;
+	font-family: Roboto;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	width: 335px;
+	vertical-align: top;
+}
+
+.cardp2 {
+		display: inline-block;
+		color: #7E8898;
+		font-family: Roboto;
+		font-size: 16px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+		width: 335px;
+		vertical-align: top;
+
+}
+
+
+.fb2 {
+	margin-right: 32px;
+	margin-bottom: 150px;
+}
+
+.line2 {
+	margin-right: 32px;
+	margin-bottom: 150px;
+}
+
+.yt2 {
+	margin-right: 32px;
+	margin-bottom: 150px;
 }
