@@ -34,3 +34,96 @@ a {
 .active {
 	color: #4E6FAE;
 }
+
+.date {
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	color: #84FF81;
+	background: #5012D5;
+	width: 50px;
+	height: 50px;
+	padding: 10px;
+	margin-bottom: 18px;
+}
+
+.mnth {
+	color: #8D81FF;
+	font-family: "BPG Nino Mkhedruli";
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 8px;
+}
+
+.topic {
+	color: #4E6FAE;
+	font-family: "ALK Rounded Mtav Med";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 590;
+	line-height: normal;
+	margin-bottom: 13px;
+}
+
+.code {
+	margin-right: 65px;
+	margin-bottom: 150px;
+}
+
+.symbols {
+	margin-right: 65px;
+	margin-bottom: 150px;
+}
+
+.computer {
+	margin-bottom: 32px;
+}
+
+.pdiv {
+	width: 778px;
+	height: 353px;
+	color: #4E6FAE;
+	font-family: "ALK Rounded Mtav Med";
+	font-size: 15px;
+	font-style: normal;
+	font-weight: 590;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.pdiv2 {
+	width: 778px;
+	height: 353px;
+	color: #4E6FAE;
+	font-family: "ALK Rounded Mtav Med";
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 590;
+	line-height: normal;
+	
+}
+
+.pbtm {
+	margin-bottom: 30px;
+}
+
+.fb {
+	margin-right: 32px;
+	margin-bottom: 250px;
+}
+
+.line {
+	margin-right: 32px;
+	margin-bottom: 250px;
+}
+
+.yt {
+	margin-right: 32px;
+	margin-bottom: 250px;
+}
